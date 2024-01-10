@@ -1,5 +1,6 @@
 import DynamicList from "./components/DynamicListContainer";
 // import "./styles/css/index.css";
+import "./Styles/main.css";
 
 function App() {
 	return (
